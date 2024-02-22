@@ -1,0 +1,59 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "6f1a88cad054b0ed7c5935a791276008d5bf2678840bcc432a84f89ef5f1a205"
+    }
+  ],
+  "containerPath" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/BMI Calculator.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Build/Products",
+      "pchPath" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

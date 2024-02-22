@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'BMI Calculator' in project 'BMI Calculator' (no dependencies)
+Target 'BMI Calculator' in project 'BMI Calculator' (no dependencies)

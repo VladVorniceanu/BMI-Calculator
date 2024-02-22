@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array/>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/BMI Calculator/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameCalculateBackground</string>
+			<key>relativePath</key>
+			<string>./calculate_background.imageset</string>
+			<key>swiftSymbol</key>
+			<string>calculateBackground</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/BMI Calculator/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameResultBackground</string>
+			<key>relativePath</key>
+			<string>./result_background.imageset</string>
+			<key>swiftSymbol</key>
+			<string>resultBackground</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>

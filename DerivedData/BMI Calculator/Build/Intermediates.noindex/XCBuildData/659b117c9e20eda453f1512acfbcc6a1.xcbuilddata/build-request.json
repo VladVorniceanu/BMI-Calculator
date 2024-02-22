@@ -1,0 +1,63 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "6f1a88cad054b0ed7c5935a791276008d5bf2678840bcc432a84f89ef5f1a205"
+    }
+  ],
+  "containerPath" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/BMI Calculator.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Build/Products",
+      "derivedDataPath" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone12,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.2",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone12,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "6A652EFF-368E-4650-92D6-D670C7190471",
+          "TARGET_DEVICE_MODEL" : "iPhone12,1",
+          "TARGET_DEVICE_OS_VERSION" : "17.2",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

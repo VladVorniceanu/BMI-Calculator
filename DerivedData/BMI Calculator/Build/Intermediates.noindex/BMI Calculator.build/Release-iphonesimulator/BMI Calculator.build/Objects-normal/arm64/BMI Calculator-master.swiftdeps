@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)"
+options: "bef62dcdb187387d8b6d26e3e4456c43041f070afc51dd684806a5df0efc90ed"
+build_start_time: [1708537796, 107521000]
+build_end_time: [1708537798, 550726000]
+inputs:
+  "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/BMI Calculator/AppDelegate.swift": !dirty [1708523554, 155760154]
+  "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/BMI Calculator/Controllers/CalculateViewController.swift": !dirty [1708537501, 340472263]
+  "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/BMI Calculator/SceneDelegate.swift": !dirty [1708523554, 164630929]
+  "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/BMI Calculator/Views/BMI.swift": !dirty [1708537486, 438687729]
+  "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/BMI Calculator/Views/CalculatorBrain.swift": !dirty [1708537794, 443475055]
+  "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/BMI Calculator/Views/ResultViewController.swift": !dirty [1708537486, 464791945]
+  ? "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Build/Intermediates.noindex/BMI Calculator.build/Release-iphonesimulator/BMI Calculator.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : !dirty [1708537796, 47952178]

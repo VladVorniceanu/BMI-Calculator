@@ -1,0 +1,45 @@
+{
+  "" : {
+    "const-values" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Build/Intermediates.noindex/BMI Calculator.build/Release-iphonesimulator/BMI Calculator.build/Objects-normal/arm64/BMI Calculator-master.swiftconstvalues",
+    "dependencies" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Build/Intermediates.noindex/BMI Calculator.build/Release-iphonesimulator/BMI Calculator.build/Objects-normal/arm64/BMI Calculator-master.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Build/Intermediates.noindex/BMI Calculator.build/Release-iphonesimulator/BMI Calculator.build/Objects-normal/arm64/BMI Calculator-master.dia",
+    "emit-module-dependencies" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Build/Intermediates.noindex/BMI Calculator.build/Release-iphonesimulator/BMI Calculator.build/Objects-normal/arm64/BMI Calculator-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Build/Intermediates.noindex/BMI Calculator.build/Release-iphonesimulator/BMI Calculator.build/Objects-normal/arm64/BMI Calculator-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Build/Intermediates.noindex/BMI Calculator.build/Release-iphonesimulator/BMI Calculator.build/Objects-normal/arm64/BMI Calculator-master.swiftdeps"
+  },
+  "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/BMI Calculator/AppDelegate.swift" : {
+    "index-unit-output-path" : "/BMI Calculator.build/Release-iphonesimulator/BMI Calculator.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Build/Intermediates.noindex/BMI Calculator.build/Release-iphonesimulator/BMI Calculator.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Build/Intermediates.noindex/BMI Calculator.build/Release-iphonesimulator/BMI Calculator.build/Objects-normal/arm64/AppDelegate.o"
+  },
+  "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/BMI Calculator/Controllers/CalculateViewController.swift" : {
+    "index-unit-output-path" : "/BMI Calculator.build/Release-iphonesimulator/BMI Calculator.build/Objects-normal/arm64/CalculateViewController.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Build/Intermediates.noindex/BMI Calculator.build/Release-iphonesimulator/BMI Calculator.build/Objects-normal/arm64/CalculateViewController.bc",
+    "object" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Build/Intermediates.noindex/BMI Calculator.build/Release-iphonesimulator/BMI Calculator.build/Objects-normal/arm64/CalculateViewController.o"
+  },
+  "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/BMI Calculator/SceneDelegate.swift" : {
+    "index-unit-output-path" : "/BMI Calculator.build/Release-iphonesimulator/BMI Calculator.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Build/Intermediates.noindex/BMI Calculator.build/Release-iphonesimulator/BMI Calculator.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Build/Intermediates.noindex/BMI Calculator.build/Release-iphonesimulator/BMI Calculator.build/Objects-normal/arm64/SceneDelegate.o"
+  },
+  "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/BMI Calculator/Views/BMI.swift" : {
+    "index-unit-output-path" : "/BMI Calculator.build/Release-iphonesimulator/BMI Calculator.build/Objects-normal/arm64/BMI.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Build/Intermediates.noindex/BMI Calculator.build/Release-iphonesimulator/BMI Calculator.build/Objects-normal/arm64/BMI.bc",
+    "object" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Build/Intermediates.noindex/BMI Calculator.build/Release-iphonesimulator/BMI Calculator.build/Objects-normal/arm64/BMI.o"
+  },
+  "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/BMI Calculator/Views/CalculatorBrain.swift" : {
+    "index-unit-output-path" : "/BMI Calculator.build/Release-iphonesimulator/BMI Calculator.build/Objects-normal/arm64/CalculatorBrain.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Build/Intermediates.noindex/BMI Calculator.build/Release-iphonesimulator/BMI Calculator.build/Objects-normal/arm64/CalculatorBrain.bc",
+    "object" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Build/Intermediates.noindex/BMI Calculator.build/Release-iphonesimulator/BMI Calculator.build/Objects-normal/arm64/CalculatorBrain.o"
+  },
+  "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/BMI Calculator/Views/ResultViewController.swift" : {
+    "index-unit-output-path" : "/BMI Calculator.build/Release-iphonesimulator/BMI Calculator.build/Objects-normal/arm64/ResultViewController.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Build/Intermediates.noindex/BMI Calculator.build/Release-iphonesimulator/BMI Calculator.build/Objects-normal/arm64/ResultViewController.bc",
+    "object" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Build/Intermediates.noindex/BMI Calculator.build/Release-iphonesimulator/BMI Calculator.build/Objects-normal/arm64/ResultViewController.o"
+  },
+  "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Build/Intermediates.noindex/BMI Calculator.build/Release-iphonesimulator/BMI Calculator.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/BMI Calculator.build/Release-iphonesimulator/BMI Calculator.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Build/Intermediates.noindex/BMI Calculator.build/Release-iphonesimulator/BMI Calculator.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/vladvorniceanu/Development/BMI-Calculator-iOS13/DerivedData/BMI Calculator/Build/Intermediates.noindex/BMI Calculator.build/Release-iphonesimulator/BMI Calculator.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  }
+}
